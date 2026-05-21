@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ayo368.github.io/ayo368-official/sitemap.xml
